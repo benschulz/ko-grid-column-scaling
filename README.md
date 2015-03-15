@@ -1,0 +1,1 @@
+A ko-grid extension which scales columns' widths so they use the available space.
